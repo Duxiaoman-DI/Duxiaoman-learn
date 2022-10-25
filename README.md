@@ -2,7 +2,7 @@
 
 数据智能领域优秀文章分享（持续更新中...)
 
-   ### NLP方向
+   ### 1.NLP方向
 
  - cosFormer：Rethinking Softmax in Attention 
  -PDF: https://arxiv.org/abs/2202.08791
