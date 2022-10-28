@@ -2,7 +2,7 @@
 
 数据智能领域优秀文章分享（持续更新中...)
 
-   ### 1.NLP方向
+   ### NLP方向
 
  - cosFormer：Rethinking Softmax in Attention 
  -PDF: https://arxiv.org/abs/2202.08791
@@ -75,3 +75,38 @@
    
  -  An Exploration of Hierarchical Attention Transformers for Efficient Long Document Classification	 
  -PDF:    https://arxiv.org/abs/2210.05529
+ 
+ 
+      
+   ### 因果推断方向
+
+ - Introduction to Causal Inference from a Machine Learning Perspective
+ -PDF: https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf
+
+- Quasi-Oracle Estimation of Heterogeneous Treatment Effects
+-PDF: https://arxiv.org/pdf/1712.04912.pdf
+
+- Orthogonal Random Forest for Causal Inference
+-PDF: http://proceedings.mlr.press/v97/oprescu19a/oprescu19a.pdf
+
+- Policy Learning with Observational Data
+-PDF: https://arxiv.org/pdf/1702.02896.pdf
+
+- Adapting Neural Networks for the Estimation of Treatment Effects
+-PDF: https://proceedings.neurips.cc/paper/2019/file/8fb5f8be2aa9d6c64a04e3ab9f63feee-Paper.pdf
+
+- Decision trees for uplift modeling with single and multiple treatments
+-PDF: https://link.springer.com/content/pdf/10.1007/s10115-011-0434-0.pdf
+
+- Estimation and Inference of Heterogeneous Treatment Effects using Random Forests
+-PDF: https://arxiv.org/pdf/1510.04342.pdf
+
+- Learning Counterfactual Representations for Estimating Individual Dose-Response Curves
+-PDF: https://arxiv.org/abs/1902.00981
+
+- Double/debiased machine learning for treatment and structural parameters 
+-PDF: https://academic.oup.com/ectj/article/21/1/C1/5056401?login=true
+
+ 
+   
+ 
