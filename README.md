@@ -108,7 +108,7 @@
 -PDF: https://academic.oup.com/ectj/article/21/1/C1/5056401?login=true
 
 
-  ### cv方向
+###CV方向
  
  - Cluster Contrast for Unsupervised Person Re-Identification
  -PDF:https://arxiv.org/pdf/2103.11568.pdf ； 
