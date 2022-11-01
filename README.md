@@ -107,6 +107,33 @@
 - Double/debiased machine learning for treatment and structural parameters 
 -PDF: https://academic.oup.com/ectj/article/21/1/C1/5056401?login=true
 
+
+      
+   ### CV方向
  
-   
+ - Cluster Contrast for Unsupervised Person Re-Identification
+ -PDF:https://arxiv.org/pdf/2103.11568.pdf ； 
+ - Think Twice Before Detecting GAN-generated Fake Images from their Spectral Domain Imprints
+ -PDF: https://openaccess.thecvf.com/content/CVPR2022/papers/Dong_Think_Twice_Before_Detecting_GAN-Generated_Fake_Images_From_Their_Spectral_CVPR_2022_paper.pdf；
+ - Frequency Domain Model Augmentation for Adversarial Attack
+ -PDF: https://arxiv.org/pdf/2207.05382.pdf；
+ - Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs
+ -PDF: https://openaccess.thecvf.com/content/CVPR2022/papers/Ding_Scaling_Up_Your_Kernels_to_31x31_Revisiting_Large_Kernel_Design_CVPR_2022_paper.pdf；
+ - VToonify: Controllable High-Resolution Portrait Video Style Transfer
+ -PDF: https://arxiv.org/pdf/2209.11224.pdf；
+ - Anchor-Free Person Searc
+ -PDF: https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_Anchor-Free_Person_Search_CVPR_2021_paper.pdf.  
+ - Text Detection, Tracking and Recognition in Video: A Comprehensive Survey
+ -PDF:https://ieeexplore.ieee.org/abstract/document/7452620
+ - An Efficient Training Approach for Very Large Scale Face Recognition
+ -PDF:https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_An_Efficient_Training_Approach_for_Very_Large_Scale_Face_Recognition_CVPR_2022_paper.pdf
+ - What Is Considered Complete for Visual Recognition?
+ -PDF:https://www.researchgate.net/publication/351990384_What_Is_Considered_Complete_for_Visual_Recognition
+ - Visual Recognition by Request
+ -PDF:https://arxiv.org/abs/2207.14227
+ - End-to-End Video Text Spotting with Transformer
+ -PDF:https://ui.adsabs.harvard.edu/abs/2022arXiv220310539W/abstract
+ - AdaFace: Quality Adaptive Margin for Face Recognition
+ -PDF:https://arxiv.org/abs/2204.00964
+ 
  
